@@ -1,0 +1,35 @@
+Exercises
+Exercise 1: Designing a simple wired network
+Objective:
+Use essential network hardware to create a basic wired network layout for a small office.
+
+Instructions:
+
+Open https://app.diagrams.net/ and start a new diagram.
+Add the following components:
+1 Router
+1 Switch
+3 Desktops
+Connect the router to the switch using a straight line.
+Connect each desktop to the switch using straight lines.
+Label each component as follows:
+Router: "Office Router"
+Switch: "Main Switch"
+Desktops: "Employee PC 1," "Employee PC 2," and "Employee PC 3"
+Save your diagram and export it as a PNG file.
+Exercise 2: Adding wireless connectivity
+Objective
+Enhance the existing network design to include wireless connectivity for mobile devices.
+
+Instructions
+
+Open the diagram you created in Exercise 1.
+Add the following components:
+1 Wireless access point (WAP)
+2 Laptops
+Using a straight line, connect the wireless access point (WAP) to the switch.
+Indicate that the laptops are connected wirelessly to the WAP by drawing dotted lines between them.
+Label the new components as follows:
+WAP: "Office WAP"
+Laptops: "Employee Laptop 1" and "Employee Laptop 2"
+Save your updated diagram and export it as a PNG file.
